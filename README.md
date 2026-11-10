@@ -1,4 +1,4 @@
-# Art-Net to JSON Sequence Recorder (v1.2)
+# Art-Net to JSON Sequence Recorder
 
 A small desktop tool that listens for **Art-Net (ArtDMX)** packets on a local UDP port, records the stream sent by
 **TouchDesigner**, **Madrix 5** or any other Art-Net source at a fixed frame rate, and saves the recording as a **JSON
